@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 
+## this is lab2-1. 
+## leechaehyun(202031881)
 
 <!--
 **chaechaecherry/chaechaecherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
