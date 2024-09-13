@@ -1,6 +1,9 @@
 ## Hi there 
 ## leechaehyun(202031881)
 
+
+studying a open-sauce
+
 <!--
 **chaechaecherry/chaechaecherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
