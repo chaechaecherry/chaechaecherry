@@ -1,5 +1,4 @@
 ## Hi there 
-hope to study hard
 
 studying a open-sauce
 
