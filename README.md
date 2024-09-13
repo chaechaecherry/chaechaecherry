@@ -1,5 +1,5 @@
 ## Hi there 
-## this is lab2-1. 
+## this is lab2. 
 ## leechaehyun(202031881)
 
 <!--
