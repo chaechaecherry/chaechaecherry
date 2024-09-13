@@ -1,6 +1,5 @@
 ## Hi there 
-## leechaehyun(202031881)
-
+hope to study hard
 
 studying a open-sauce
 
